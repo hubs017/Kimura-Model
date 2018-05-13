@@ -1,0 +1,6 @@
+C:\Users\Hubs Imperator\Desktop\portfolio\Trees\bin\Debug\Trees.exe.config
+C:\Users\Hubs Imperator\Desktop\portfolio\Trees\obj\Debug\Trees.csprojResolveAssemblyReference.cache
+C:\Users\Hubs Imperator\Desktop\portfolio\Trees\bin\Debug\Trees.exe
+C:\Users\Hubs Imperator\Desktop\portfolio\Trees\bin\Debug\Trees.pdb
+C:\Users\Hubs Imperator\Desktop\portfolio\Trees\obj\Debug\Trees.exe
+C:\Users\Hubs Imperator\Desktop\portfolio\Trees\obj\Debug\Trees.pdb
